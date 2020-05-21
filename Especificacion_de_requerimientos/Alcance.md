@@ -1,6 +1,6 @@
 # **Alcance**
 
-Este proyecto está con base al desarrollo de un software y apartir de necesidad de nuestro cliente, lo primordial es darle el mejor funcionamiento al negocio de nuestro cliente que se completará con una serie de fases para su desarrollo y funcionamiento.
+Este proyecto está con base al desarrollo de un software y apartir de la necesidad de nuestro cliente, lo primordial es darle el mejor funcionamiento al negocio de nuestro cliente que se completará con una serie de fases para su desarrollo y funcionamiento.
 El proyecto se dirige al sector productivo y de servicio, en los cuales se busca sistematizar procesos o
 actividades del quehacer diario de los usuarios, En la mayoría de los casos para el óptimo funcionamiento del sistema se requiere de mejoras en la infraestructura tecnológica y adaptación de los usuarios al sistema,También la empresa u
 organización según sea su situación ha de invertir en la infraestructura tecnologica que garantice un óptimo
