@@ -18,25 +18,22 @@ Analizar todas las empresas potenciales para llegar a un acuerdo de con cual tra
 
 **DESARROLLO DE LA REUNION**
 
-•	Se verifica que cada integrante esté presente
+* Se verifica que cada integrante esté presente
 
-•	Se realiza un una presentacion de cada empresa
+*	Se realiza un una presentacion de cada empresa
 
-•	Se realiza un debate
+*	Se realiza un debate
 
-•	Se toma una decision
+*	Se toma una decision
 
 **CONCLUSIONES**
-
-•	Se identificaron todas las caraxteristicas de las empresas
-
-•	Se realizó un acuerdo sobre tener conversaciones con una empresa
-
-•	Se presentó una fecha tentativa de conversación
+*	Se escogio una empresa
+* Se acordo otra reunion
+* Comunicar lo  hablado con el dueño de la empresa a nuestros compañeros  
 
 **COMPROMISO(S)**
-
-Realizar reunión de presentación y realizar un conversatorio con el fin de analizar las acciones a tomar con el representante de esta empresa.
+* procedemos a planear nuestro encuentro para hablar con el encargado de la empresa ya elegida 
+* Explicarle nuestros objetivos al encargado de la empresa.
 
 **ASISTENTES**
 
